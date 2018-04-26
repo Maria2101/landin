@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+16:06:31	6458/6458	---MCZ	404	error ('Not%20Found')	text/html	etag:W/%225743-QIc3yUKY5AOYxWd1xdWNKXuxKJs%22	http://marketingsocial.pagedemo.co/robots.txt		(from )
+16:06:32	58245/58245	---MCZ	200	added ('OK')	text/html	etag:W/%22e385-W2YZVRZ5s6NZQLQF3w4qIUsvDPU%22	http://marketingsocial.pagedemo.co/	C:/Mis%20lugares%20Web/landing/marketingsocial.pagedemo.co/index.html	(from )

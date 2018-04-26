@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+page-preview.instapage.com	TRUE	/	FALSE	1999999999	avengers-identity	eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJzZXNzaW9uIjoiNDgwMmFjZmMtMjU1Ni00MzA4LWEzZWUtMzRlYWJiY2RlOWRlIn0.NAMy56MBIZNEmSLqw1EptHoaX2l2T-vnz0VB54MqMDmgkfg1WNLzaqHzZpfuVTArktwWwbG4wPh4-5Pgr9o65Q
+marketingsocial.pagedemo.co	TRUE	/	FALSE	1999999999	instapage-variant-430148	A
+marketingsocial.pagedemo.co	TRUE	/	FALSE	1999999999	instapage-variant-9673992	A
+
